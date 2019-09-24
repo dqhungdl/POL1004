@@ -34,28 +34,27 @@
 * Cuối thế kỉ XIX, đầu thế kỉ XX, các phát hiện mới về cấu trúc của vật chất đã làm biến đổi sâu về khái niệm nguyên tử (1897, Tom-xon phát hiện ra điện tử; 1905: Anh-xtanh: tìm ra thuyết tương đối…)
 #### c) Định nghĩa vật chất của Lê-nin:
 * Lê-nin xuất hiện, tổng kết lại nhằm đấu tranh chống chủ nghĩa duy tâm: **“Vật chất không mất đi, cũng không tiêu tan, mà chỉ có giới hạn hiểu biết về vật chất của con người chưa vượt qua được”** (Ý thức của con người đã bị vượt qua).
-* Từ đó Lê-nin đưa ra định nghĩa về vật chất: “Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác.”
-* “Vật chất là một phạm trù triết học” dùng để chỉ vật chất nói chung, tức là muốn nói đến vật chất vô cùng, vô tận, không do ai sinh ra và cũng không mất đi. Những dạng vật chất cụ thể trong các ngành khoa học và cuộc sống là những dạng vật chất hữu hạn, có sinh, có diệt.
-* “Vật chất là thực tại khách quan” dùng để chỉ vật chất là tất cả những gì tồn tại độc lập với yếu tố chủ quan, ý thức của con người, vì vậy thuộc tính đầu tiên của vật chất là khách quan.
-* “Được đem lại cho con người trong cảm giác” phản ảnh thuộc tính quan trọng tiếp theo của vật chất là phản ảnh. Về nguyên tắc, con người có thể nhận thức được thế giới vật chất.
+* Từ đó Lê-nin đưa ra định nghĩa về vật chất: **“Vật chất là một phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác**”.
+* **“Vật chất là một phạm trù triết học”** dùng để chỉ vật chất nói chung, tức là muốn nói đến vật chất vô cùng, vô tận, không do ai sinh ra và cũng không mất đi. Những dạng vật chất cụ thể trong các ngành khoa học và cuộc sống là những dạng vật chất hữu hạn, có sinh, có diệt.
+* **“Vật chất là thực tại khách quan”** dùng để chỉ vật chất là tất cả những gì tồn tại độc lập với yếu tố chủ quan, ý thức của con người, vì vậy thuộc tính đầu tiên của vật chất là khách quan.
+* **“Được đem lại cho con người trong cảm giác”** phản ảnh thuộc tính quan trọng tiếp theo của vật chất là phản ảnh. Về nguyên tắc, con người có thể nhận thức được thế giới vật chất.
 * Kết luận: định nghĩa triết học của Lenin đã giải đáp đúng đắn 2 mặt của triết học, có ý nghĩa to lớn đối với hoạt động nhận thức của con người, cụ thể như sau:
-- Chống lại quan điểm duy tâm và trường phải bất khả tri.
-- Khắc phục triệt để tính chất trực quan, siêu hình của các nhà triết học duy tâm trước Mác.
-- Khắc phục cuộc khủng hoảng của vật lý học cuối thế kỉ 19 -  đầu thế kỉ 20.
-- Giúp cho việc xây dựng quan điểm duy vật biện chứng trong lĩnh vực xã hội.
-2. Phương thức tồn tại của vật chất:
+  * Chống lại quan điểm duy tâm và trường phải bất khả tri.
+  * Khắc phục triệt để tính chất trực quan, siêu hình của các nhà triết học duy tâm trước Mác.
+  * Khắc phục cuộc khủng hoảng của vật lý học cuối thế kỉ 19 -  đầu thế kỉ 20.
+  * Giúp cho việc xây dựng quan điểm duy vật biện chứng trong lĩnh vực xã hội.
+### 2. Phương thức tồn tại của vật chất:
 * Vận động là phương thức tồn tại của vật chất, vận động trong triết là sự vận động nói chung, từ sự dịch chuyển đơn giản của vật thể đến sự vận động trong tư duy của con người.
 * Vật chất tồn tại trong những không gian và thời gian xác định.
 * Tính thống nhất vật chất của thế giới: chỉ có một thế giới duy nhất và thống nhất tồn tại, đó là thế giới vật chất.
-VI. Ý thức:
-1. Nguồn gốc của ý thức:
+## VI. Ý thức:
+### 1. Nguồn gốc của ý thức:
 * Ý thức là sự phản ánh hiện thực khách quan vào trong đầu óc của con người thông qua hoạt động thực tiễn.
 * Ý thức có 2 nguồn gốc: nguồn gốc tự nhiên và nguồn gốc xã hội.
-* Nguồn gốc tự nhiên: bao gồm bộ óc con người và thế giới hiện thực khách quan và sự tương tác giũa bộ óc con người với thế giới hiện thực khách quan.
-* Bộ óc của con người là sản phẩm tiến hóa cao nhất của giới tự nhiên. Bộ não có năng lực phản ánh. Phản ánh là sự tái tạo từ hệ thống vật chất này sang hệ thống vật chất khác khi chúng tương tác qua lại với nhau. Hình thức phản ánh thấp nhất là phản ánh vật lí và hóa học, cao hơn là phản ánh sinh học (phản ánh kích thích - phản ánh cảm ứng), tiếp đến là phản ánh tâm lí (chỉ xảy ra ở loài động vật bậc cao, có bộ não phát triển, tuy nhiên vẫn còn thụ động),  cuối cùng là phản ánh ý thức (đây là hình thức phản ánh có tính năng động và sáng tạo).
-* Kết luận: bộ óc con người là nguồn gốc tự nhiên của ý thức.
-* Nguồn gốc tự nhiên là chưa đủ để hình thành ý thức của con người, cần thêm nguồn gốc xã hội.
-* Nguồn gốc xã hội: bao gồm lao động và ngôn ngữ.
-* Anghen cho rằng: “Sau lao động là đồng thời với lao động là ngôn ngữ” là 2 sức kích thích chủ yếu để chuyển biến não vượn thành não người”
-* Vai trò của lao động: trong quá trình lao động cùng với hoạt động lao động đầu tiên của con người là hái lượm, nhờ đó 2 chi trước của con người được giải phóng, trở thành đôi tay khéo léo. Trong quá trình lao động, con người tìm được lửa, giúp con người chuyển từ trạng thái hoang dã thành trạng thái văn minh. Tiếp đến, con người tiến tới hoạt động săn bắn. Trong quá trình lao động, các cơ quan cảm giác của con người dần hoàn thiện, giúp kích hoạt não bộ của con người phát triển hơn. Trong quá trình lao động, con người tương tác nhiều với thế giới bên ngoài, nhờ đó nhận được nhiều tư liệu để phát triển nhận thức
-
+  * Nguồn gốc tự nhiên: bao gồm bộ óc con người và thế giới hiện thực khách quan và sự tương tác giũa bộ óc con người với thế giới hiện thực khách quan.
+    * Bộ óc của con người là sản phẩm tiến hóa cao nhất của giới tự nhiên. Bộ não có năng lực phản ánh. Phản ánh là sự tái tạo từ hệ thống vật chất này sang hệ thống vật chất khác khi chúng tương tác qua lại với nhau. Hình thức phản ánh thấp nhất là phản ánh vật lí và hóa học, cao hơn là phản ánh sinh học (phản ánh kích thích - phản ánh cảm ứng), tiếp đến là phản ánh tâm lí (chỉ xảy ra ở loài động vật bậc cao, có bộ não phát triển, tuy nhiên vẫn còn thụ động),  cuối cùng là phản ánh ý thức (đây là hình thức phản ánh có tính năng động và sáng tạo).
+    * Kết luận: bộ óc con người là nguồn gốc tự nhiên của ý thức.
+    * Nguồn gốc tự nhiên là chưa đủ để hình thành ý thức của con người, cần thêm nguồn gốc xã hội.
+  * Nguồn gốc xã hội: bao gồm lao động và ngôn ngữ.
+    * Anghen cho rằng: “Sau lao động là đồng thời với lao động là ngôn ngữ” là 2 sức kích thích chủ yếu để chuyển biến não vượn thành não người”
+    * Vai trò của lao động: trong quá trình lao động cùng với hoạt động lao động đầu tiên của con người là hái lượm, nhờ đó 2 chi trước của con người được giải phóng, trở thành đôi tay khéo léo. Trong quá trình lao động, con người tìm được lửa, giúp con người chuyển từ trạng thái hoang dã thành trạng thái văn minh. Tiếp đến, con người tiến tới hoạt động săn bắn. Trong quá trình lao động, các cơ quan cảm giác của con người dần hoàn thiện, giúp kích hoạt não bộ của con người phát triển hơn. Trong quá trình lao động, con người tương tác nhiều với thế giới bên ngoài, nhờ đó nhận được nhiều tư liệu để phát triển nhận thức
