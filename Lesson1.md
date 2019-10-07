@@ -58,6 +58,7 @@
   * Nguồn gốc xã hội: bao gồm lao động và ngôn ngữ.
     * Anghen cho rằng: “Sau lao động là đồng thời với lao động là ngôn ngữ” là 2 sức kích thích chủ yếu để chuyển biến não vượn thành não người”.
     * Vai trò của lao động: trong quá trình lao động cùng với hoạt động lao động đầu tiên của con người là hái lượm, nhờ đó 2 chi trước của con người được giải phóng, trở thành đôi tay khéo léo. Trong quá trình lao động, con người tìm được lửa, giúp con người chuyển từ trạng thái hoang dã thành trạng thái văn minh. Tiếp đến, con người tiến tới hoạt động săn bắn. Trong quá trình lao động, các cơ quan cảm giác của con người dần hoàn thiện, giúp kích hoạt não bộ của con người phát triển hơn. Trong quá trình lao động, con người tương tác nhiều với thế giới bên ngoài, nhờ đó nhận được nhiều tư liệu để phát triển nhận thức.
+    * Trong quá trình lao động, còn người cần giao tiếp và trao đổi kinh nghiệm nên cần đến ngôn ngữ. Ngôn ngữ là lớp vỏ của ý thức, là công cụ thể hiện ra bên ngoài của ý thức. Ngôn ngữ giúp con người phản ánh khái quát những thuộc tính về bản chất của sự vật và hiện tượng.
 ### 2. Bản chất của ý thức:
 * Ý thức là hình ảnh chủ quan của thế giới quan.
 * Ý thức có tính năng động và sáng tạo.
